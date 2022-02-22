@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nati
-- 👀 I’m interested in pretty much any tech that exists out there, and if it doesnt exist yet then it's even more interesting!
+- 👀 I’m interested in pretty much any tech that exists, and if it doesnt exist yet then it's even more interesting!
 - 🌱 I’m currently learning Coumputer Science and Android app development
 
 
