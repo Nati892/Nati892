@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Nati
-- 👀 I’m interested in pretty much any tech that exists, and if it doesnt exist yet then it's even more interesting!
-- 🌱 I’m currently learning Computer Science and Android app development
+- 👀 I’m interested in pretty much any tech that's out there.
+- 🌱 I’m currently pursuing a Computer Science degree and I'm learning Android app development in my spare time
+
+
 
 
 
