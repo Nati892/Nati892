@@ -2,8 +2,7 @@
 - 👀 I’m interested in pretty much any tech that's out there.
 - 🌱 I’m currently pursuing a Computer Science degree and I'm learning Android app development in my spare time
 
-![c-](https://user-images.githubusercontent.com/93869199/166242031-31b0b922-336d-45c5-9993-5bb90ed8a6ea.png)
-
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 <!---
