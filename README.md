@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing a Computer Science degree and I'm learning Android app development in my spare time
 
 
-
+https://img.icons8.com/color/452/c-programming.png
 
 
 <!---
