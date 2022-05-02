@@ -3,6 +3,8 @@
 - 🌱 I’m currently pursuing a Computer Science degree and I'm learning Android app development in my spare time
 
 
+<img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&nbsp;&nbsp;
+
 
 <!---
 - 📫 How to reach me ...
