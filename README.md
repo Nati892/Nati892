@@ -7,8 +7,8 @@
 <img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&nbsp;&nbsp;
 <img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />&nbsp;&nbsp;&nbsp;
 <img alt="VS" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png" />&nbsp;&nbsp;&nbsp;
-<img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" />&nbsp;&nbsp;&nbsp;
 <img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />&nbsp;&nbsp;&nbsp;
+<img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" />&nbsp;&nbsp;&nbsp;
 <img alt="VS" width="26px" src="https://img.icons8.com/fluency/344/arduino.png" />&nbsp;&nbsp;&nbsp;
 
 
