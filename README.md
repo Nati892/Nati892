@@ -2,7 +2,7 @@
 - 👀 I’m interested in pretty much any tech that's out there.
 - 🌱 I’m currently pursuing a Computer Science degree and I'm learning Android app development in my spare time
 
-<img alt="VS" width="26px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />&nbsp;&nbsp;&nbsp;
+<img alt="VS" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />&nbsp;&nbsp;&nbsp;
 <img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />&nbsp;&nbsp;&nbsp;
 <img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />&nbsp;&nbsp;&nbsp;
 <img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />&nbsp;&nbsp;&nbsp;
