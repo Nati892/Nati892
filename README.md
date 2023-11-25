@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nati
 - 👀 I’m interested in pretty much any tech that's out there.
-- 🌱 I’m currently pursuing a Computer Science degree and I work in V.V.S Tech - A multimedia RT solutions company as a c#/c++ software developer.
+- 🌱 I’m currently pursuing a Computer Science degree and Im currently hired as C#/C++ software developer in V.V.S Tech - A multimedia RT solutions company.
 
 <img alt="VS" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />&nbsp;&nbsp;&nbsp;
 <img alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />&nbsp;&nbsp;&nbsp;
