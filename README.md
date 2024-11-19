@@ -18,7 +18,7 @@
 
 
 - 📫 How to reach me ...
-- <a href="https://www.linkedin.com/in/netanel-cohen-gindi/" rel="nofollow"><img alt="linkedin" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"></a>
+- <a href="https://www.linkedin.com/in/netanel-cohen-gindi/" rel="nofollow"><img alt="linkedin" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"></a><a href="https://www.linkedin.com/in/netanel-cohen-gindi/" rel="nofollow"> LinkedIn</a>
 <!---
 Nati892/Nati892 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
